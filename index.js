@@ -124,7 +124,7 @@ function deleteData(index) {
 
 function UpdateData(index) {
 
-    //jab edit me jayega tab add data jaa ke submit ayega
+   //
     
     document.getElementById("Submit").style.display= "none";
     document.getElementById("Update").style.display= "block";
